@@ -1,0 +1,57 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WWmxhzx/IMG-06062022-165130-259-x-154-p-xel.jpg" group-title="PARAGUAY",ABC TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ABC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/zxnDXhP.png" group-title="PARAGUAY",TELEFUTURO
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TELEFUTURO)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7WMZ14H.jpeg" group-title="PARAGUAY",SNT
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SNT)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/4TFJfRy.png" group-title="PARAGUAY",C9N
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(CN9)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/G4YET2p.png" group-title="PARAGUAY",LA TELE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(LA_TELE)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/7MGyOXw.png" group-title="PARAGUAY",TRECE
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(RPC)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/sAagbr4.png" group-title="PARAGUAY",SUR TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(SUR_TV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/0Zfxrn3.png" group-title="PARAGUAY",NPY TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(NOTICIAS_PY)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/2iD4Arl.png" group-title="PARAGUAY",TV CAMARA DE DIPUTADOS
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(TV_CAMARA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/lQbXKz4.png" group-title="PARAGUAY",VENUS MEDIA
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(VENUS_MEDIA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/ZAvdsFB.png" group-title="PARAGUAY",HEI TV
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(HEI_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/uIKb9TF.png" group-title="PARAGUAY",FARRA PLAY TV
+http://159.203.148.226/live/farra.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/TAh7KN4.png" group-title="PARAGUAY",SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/chunklist_w605524026.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M5n0sy6/REGIONAL-TV.jpg" group-title="PARAGUAY",REGIONAL TV
+https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/chunklist_w770825581.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/8RVl54d.png" group-title="PARAGUAY",TV AIRE
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/chunklist_w1880113039.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/dFDOJQv.png" group-title="PPARAGUAY",TVS
+https://copacogen.desdeparaguay.net/tvs/tvs/chunklist_w365059650.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/reofL7u.png" group-title="PARAGUAY",RCC TV
+https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w1373696002.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/HOWFAMi.png" group-title="PARAGUAY",MI TV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/XxCGDqp.png" group-title="PARAGUAY",EDU CANAL
+https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w1410566417.m3u8

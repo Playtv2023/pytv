@@ -55,3 +55,30 @@ https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/XxCGDqp.png" group-title="PARAGUAY",EDU CANAL
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w1410566417.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F4btvjk/descarga-21.jpg" group-title="PARAGUAY",SUCESO TV
+https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/chunklist_w1537509770.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w07JkDN/descarga-22.jpg" group-title="PARAGUAY",ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/chunklist_w1363365365.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JQ4hWqF/images-14.jpg" group-title="PARAGUAY",ESTACION CRISTAL
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/chunklist_w878203454.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jV8Q33Z/descarga-5.png" group-title="PARAGUAY",MEGA TV
+https://streannlivemegacadena.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.94.232.72/c9401fd769582510013f58f9e18babc88a67abadf04f3569dc04eaceb5910169/megacadena1/megacadena1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WfB10pY/75354d99-c2eb-4db9-a191-95c9962f2eac-profile-banner-480.jpg" group-title="PARAGUAY",MAS TV
+https://59ce1298bfb98.streamlock.net/mastv/mastv/chunklist_w1145922332.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r54QdF4/descarga-23.jpg" group-title="DEPORTES",FOX SPORTS 1
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mqTsXgY/descarga-24.jpg" group-title="DEPORTES",FOX SPORTS 2
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_2)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7QB4g9b/descarga-25-1.jpg" group-title="DEPORTES",FOX SPORTS 3
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(FOX_SPORTS_3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CB4QzJg/descarga-6.png" group-title="DEPORTES",ESPN 1
+https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/channel(ESPN)/index.m3u8
